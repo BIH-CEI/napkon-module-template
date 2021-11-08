@@ -3,7 +3,7 @@
 
 err = 0, warn = 8, info = 1
 IG Publisher Version: 1.1.84
-Generated Mon Nov 08 12:56:37 UTC 2021. FHIR version 4.0.1 for napkon-module#0.1.0 (canonical = https://www.netzwerk-universitaetsmedizin.de/fhir)
+Generated Mon Nov 08 13:55:58 UTC 2021. FHIR version 4.0.1 for napkon-module#0.1.0 (canonical = https://www.netzwerk-universitaetsmedizin.de/fhir)
  Build Errors : 0 / 7 / 1
  /github/workspace/fsh-generated/resources/ImplementationGuide-napkon-module : 0 / 1 / 1
  /github/workspace/fsh-generated/resources/Patient-ExamplePatient : 0 / 0 / 2
