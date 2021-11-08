@@ -9,7 +9,7 @@
   <version value="0.1.0"/>
   <name value="napkonmodule"/>
   <status value="draft"/>
-  <date value="2021-10-26T10:09:22+00:00"/>
+  <date value="2021-11-08T12:56:21+00:00"/>
   <publisher value="Charité - Universitätsmedizin Berlin"/>
   <contact>
     <name value="Charité - Universitätsmedizin Berlin"/>
@@ -261,6 +261,7 @@
         <reference value="Patient/ExamplePatient"/>
       </reference>
       <name value="ExamplePatient"/>
+      <description value="Example patient to be used as reference in other instances"/>
       <exampleBoolean value="true"/>
     </resource>
     <page>

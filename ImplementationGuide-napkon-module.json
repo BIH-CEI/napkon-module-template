@@ -9,7 +9,7 @@
   "version": "0.1.0",
   "name": "napkonmodule",
   "status": "draft",
-  "date": "2021-10-26T10:09:22+00:00",
+  "date": "2021-11-08T12:56:21+00:00",
   "publisher": "Charité - Universitätsmedizin Berlin",
   "contact": [
     {
@@ -389,6 +389,7 @@
           "reference": "Patient/ExamplePatient"
         },
         "name": "ExamplePatient",
+        "description": "Example patient to be used as reference in other instances",
         "exampleBoolean": true
       }
     ],

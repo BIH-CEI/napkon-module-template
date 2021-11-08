@@ -1,10 +1,10 @@
 ﻿napkonmodule : Validation Results
 =========================================
 
-err = 0, warn = 9, info = 1
-IG Publisher Version: 1.1.83
-Generated Tue Oct 26 10:09:38 UTC 2021. FHIR version 4.0.1 for napkon-module#0.1.0 (canonical = https://www.netzwerk-universitaetsmedizin.de/fhir)
- Build Errors : 0 / 8 / 1
+err = 0, warn = 8, info = 1
+IG Publisher Version: 1.1.84
+Generated Mon Nov 08 12:56:37 UTC 2021. FHIR version 4.0.1 for napkon-module#0.1.0 (canonical = https://www.netzwerk-universitaetsmedizin.de/fhir)
+ Build Errors : 0 / 7 / 1
  /github/workspace/fsh-generated/resources/ImplementationGuide-napkon-module : 0 / 1 / 1
  /github/workspace/fsh-generated/resources/Patient-ExamplePatient : 0 / 0 / 2
  /github/workspace/fsh-generated/resources/ValueSet-detected-not-detected-unknown-undetermined : 0 / 0 / 1
@@ -21,7 +21,6 @@ WARNING: ImplementationGuide.dependency[3].url: The canonical URL for an Impleme
 WARNING: ImplementationGuide.dependency[4].url: The canonical URL for an Implementation Guide must point directly to the implementation guide resource, not to the Implementation Guide as a whole
 WARNING: ImplementationGuide.dependency[5].url: The canonical URL for an Implementation Guide must point directly to the implementation guide resource, not to the Implementation Guide as a whole
 WARNING: ImplementationGuide.dependency[6].url: The canonical URL for an Implementation Guide must point directly to the implementation guide resource, not to the Implementation Guide as a whole
-WARNING: Unable to find ImplementationGuide.definition.resource.description for the resource Patient/ExamplePatient.  Descriptions are strongly encouraged if they cannot be inferred from the resource to allow proper population of the artifact list.
 == fsh-generated/resources/ImplementationGuide-napkon-module.json ==
 WARNING: ImplementationGuide/napkon-module: ImplementationGuide: ig-0: 'Name should be usable as an identifier for the module by machine processing applications such as code generation' Rule 'Name should be usable as an identifier for the module by machine processing applications such as code generation' Failed
 == fsh-generated/resources/Patient-ExamplePatient.json ==
