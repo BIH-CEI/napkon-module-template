@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Bundle xmlns="http://hl7.org/fhir">
-  <id value="45709beb-eac6-45fb-b988-f567d9bd91d8"/>
+  <id value="1c110e6a-a3b2-4d9e-aaac-a0b92d53ed11"/>
   <meta>
-    <lastUpdated value="2021-11-08T13:55:44.323+00:00"/>
+    <lastUpdated value="2021-11-10T17:43:23.304+00:00"/>
   </meta>
   <type value="collection"/>
   <entry>
@@ -73,7 +73,7 @@
         <name value="DetectedNotDetectedUnknownUndetermined"/>
         <title value="Detected Not Detected Unknown Undetermined"/>
         <status value="active"/>
-        <date value="2021-11-08T13:55:44+00:00"/>
+        <date value="2021-11-10T17:43:23+00:00"/>
         <publisher value="Charité - Universitätsmedizin Berlin"/>
         <contact>
           <name value="Charité - Universitätsmedizin Berlin"/>
@@ -84,8 +84,8 @@
         </contact>
         <description value="Values for laboratory observations"/>
         <expansion>
-          <identifier value="urn:uuid:bc100ca5-c03a-456b-932a-0fea367d5ced"/>
-          <timestamp value="2021-11-08T13:55:52+00:00"/>
+          <identifier value="urn:uuid:091281fb-4bc0-4ce3-835f-71100f05f74b"/>
+          <timestamp value="2021-11-10T17:43:35+00:00"/>
           <total value="4"/>
           <parameter>
             <name value="excludeNested"/>
@@ -190,7 +190,7 @@
         <name value="PresentNotPresentUndeterminedOther"/>
         <title value="Present Not Present Undetermined Other"/>
         <status value="active"/>
-        <date value="2021-11-08T13:55:44+00:00"/>
+        <date value="2021-11-10T17:43:23+00:00"/>
         <publisher value="Charité - Universitätsmedizin Berlin"/>
         <contact>
           <name value="Charité - Universitätsmedizin Berlin"/>
@@ -201,8 +201,8 @@
         </contact>
         <description value="Values for laboratory observations"/>
         <expansion>
-          <identifier value="urn:uuid:2a073623-4da6-4b08-997f-6836dc09223e"/>
-          <timestamp value="2021-11-08T13:55:53+00:00"/>
+          <identifier value="urn:uuid:85989820-f0a0-4f4f-b861-31df14cfafe6"/>
+          <timestamp value="2021-11-10T17:43:36+00:00"/>
           <total value="4"/>
           <parameter>
             <name value="excludeNested"/>
@@ -309,7 +309,7 @@
         <name value="RestrictedEventStatus"/>
         <title value="RestrictedEventStatus"/>
         <status value="active"/>
-        <date value="2021-11-08T13:55:44+00:00"/>
+        <date value="2021-11-10T17:43:23+00:00"/>
         <publisher value="Charité - Universitätsmedizin Berlin"/>
         <contact>
           <name value="Charité - Universitätsmedizin Berlin"/>
@@ -320,8 +320,8 @@
         </contact>
         <description value="EventStatus value set restricted to codes not-done, active, completed and unknown"/>
         <expansion>
-          <identifier value="urn:uuid:94220bc4-823f-4361-bf6a-705f1e6d8176"/>
-          <timestamp value="2021-11-08T13:55:53+00:00"/>
+          <identifier value="urn:uuid:624e513c-e571-4cc7-b665-22034821bb73"/>
+          <timestamp value="2021-11-10T17:43:36+00:00"/>
           <total value="4"/>
           <parameter>
             <name value="excludeNested"/>
@@ -414,7 +414,7 @@
         <name value="YesNoUnknown"/>
         <title value="Yes No Unknown"/>
         <status value="active"/>
-        <date value="2021-11-08T13:55:44+00:00"/>
+        <date value="2021-11-10T17:43:23+00:00"/>
         <publisher value="Charité - Universitätsmedizin Berlin"/>
         <contact>
           <name value="Charité - Universitätsmedizin Berlin"/>
@@ -425,8 +425,8 @@
         </contact>
         <description value="Yes / No / Unknown"/>
         <expansion>
-          <identifier value="urn:uuid:b3fba945-f6a1-4e56-b9d4-8d62d4578e74"/>
-          <timestamp value="2021-11-08T13:55:53+00:00"/>
+          <identifier value="urn:uuid:09d0398c-e592-46e1-b32b-2f71cfce7361"/>
+          <timestamp value="2021-11-10T17:43:36+00:00"/>
           <total value="3"/>
           <parameter>
             <name value="excludeNested"/>
